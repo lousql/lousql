@@ -1,0 +1,2 @@
+# lousql
+The lousql dbms
